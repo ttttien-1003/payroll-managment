@@ -6,8 +6,8 @@
 
 | Họ và Tên | MSSV | Vai trò | Link Git |
 | :--- | :--- | :--- | :--- |
-| **Nguyễn Việt Cường** | 23120116 | **Nhóm trưởng** | [(Link Git cá nhân)](https://github.com/nvcuong12) |
-| Lê Hải Sơn | 23120162) | Thành viên | [(Link Git cá nhân)](https://github.com/haison65) |
+| **Nguyễn Việt Cường** | **23120116** | **Nhóm trưởng** | [(Link Git cá nhân)](https://github.com/nvcuong12) |
+| Lê Hải Sơn | 23120162 | Thành viên | [(Link Git cá nhân)](https://github.com/haison65) |
 | Trần Thị Thủy Tiên | 23120172 | Thành viên | [(Link Git cá nhân)](https://github.com/ttttien-1003) |
 
 ## 2. Phân công công việc
