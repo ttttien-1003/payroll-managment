@@ -14,9 +14,9 @@
 
 | Tên thành viên | Công việc đã thực hiện | Mức độ commit Git |
 | :--- | :--- | :--- |
-| Nguyễn Việt Cường | - Quản lý chung, phân công công việc, theo dõi tiến độ. <br> - Xây dựng module tính lương (`SalaryCalculator`). <br> - Xây dựng module quản lý chấm công (`AttendanceManager`). <br> - Xây dựng module giao diện người dùng. <br> - Quay video demo đồ án. | *(Mô tả: Đều đặn)* |
-| Lê Hải Sơn | - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng module giao diện người dùng CLI (`App`) và định dạng hiển thị (`PayrollPrinter`, `NumberFormatter`). <br> - Xử lý đọc/ghi file CSV chấm công. <br> - Tích hợp các module. <br> - Vẽ class diagram và tạo tài liệu mô tả về các lớp, ý nghĩa các hàm. | *(Mô tả: Đều đặn)* |
-| Trần Thị Thủy Tiên | - Thiết kế kiến trúc tổng thể (Lớp `IEmployee`, `IWelfare`). <br> - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng các lớp phúc lợi cụ thể (`SocialInsuranceWelfare`, `BonusWelfare`, `TransportationWelfare`). <br> - Xây dựng module quản lý phúc lợi (`WelfareManager`). <br> - Xử lý đọc/ghi file danh sách nhân viên. <br> - ... | *(Mô tả: Đều đặn)* |
+| Nguyễn Việt Cường | - Quản lý chung, phân công công việc, theo dõi tiến độ. <br> - Xây dựng module tính lương (`SalaryCalculator`). <br> - Xây dựng module quản lý chấm công (`AttendanceManager`). <br> - Xây dựng module giao diện người dùng. <br> - Quay video demo đồ án. | Đều đặn |
+| Lê Hải Sơn | - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng module giao diện người dùng CLI (`App`) và định dạng hiển thị (`PayrollPrinter`, `NumberFormatter`). <br> - Xử lý đọc/ghi file CSV chấm công. <br> - Tích hợp các module. <br> - Vẽ class diagram và tạo tài liệu mô tả về các lớp, ý nghĩa các hàm. | Đều đặn |
+| Trần Thị Thủy Tiên | - Thiết kế kiến trúc tổng thể (Lớp `IEmployee`, `IWelfare`). <br> - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng các lớp phúc lợi cụ thể (`SocialInsuranceWelfare`, `BonusWelfare`, `TransportationWelfare`). <br> - Xây dựng module quản lý phúc lợi (`WelfareManager`). <br> - Xử lý đọc/ghi file danh sách nhân viên. <br> - ... | Đều đặn |
 
 ## 3. Tỉ lệ đóng góp
 
@@ -81,7 +81,7 @@ Nhóm đề xuất tỉ lệ chia điểm như sau: **Chia đều**.
 
 ### 5.4. Đảm bảo chất lượng (20%)
 
-* **Test:** *(Mô tả cách thức test, ví dụ: Test thủ công các chức năng, test đơn vị (nếu có)).* Nhóm đã thực hiện test thủ công các luồng chính: Thêm/Xóa/Sửa nhân viên, tải chấm công, tính lương và in phiếu lương cho từng loại nhân viên với các trường hợp dữ liệu khác nhau (ví dụ: có tăng ca, có ngày lễ, có BHXH, không có BHXH). Đã kiểm tra kết quả tính lương với file `payroll_export.txt`.
+* **Test:** *(Mô tả cách thức test, ví dụ: Test thủ công các chức năng, test đơn vị (nếu có)).* Nhóm đã thực hiện test thủ công các luồng chính: Thêm/Xóa nhân viên, tải chấm công, tính lương và in phiếu lương cho từng loại nhân viên với các trường hợp dữ liệu khác nhau (ví dụ: có tăng ca, có đi làm ngày lễ,...). Đã kiểm tra kết quả tính lương với file `payroll_export.txt`.
 * **Coding Convention:**
     * Nhóm đã cố gắng tuân thủ coding convention (Google C++ Style Guide) về cách đặt tên biến, hàm, lớp. Tuy nhiên, do trong quá trình thực hiện đồ án, có một số hàm phát sinh không biết trước cũng như code do nhiều thành viên gửi về, cách đặt tên sẽ không quá đồng nhất. Với vấn đề này, tập thể thành viên của nhóm sẽ chịu trách nhiệm.
     * Sử dụng comment (đặc biệt là Doxygen-style trong file `.h`) để giải thích mục đích của các lớp và phương thức, giúp tăng khả năng đọc hiểu và bảo trì code.
