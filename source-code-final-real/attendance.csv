@@ -1,0 +1,6 @@
+EmployeeID,WorkDate,CheckInTime,CheckOutTime,DayType
+CT001,4/30/2024,9:00:00,17:00:00,holiday
+FT001,5/1/2024,9:00:00,17:00:00,holiday
+FT001,5/20/2024,9:00:00,17:00:00,normal
+FT001,5/20/2024,17:00:00,20:00:00,overtime
+CT001,5/20/2024,9:00:00,17:00:00,normal

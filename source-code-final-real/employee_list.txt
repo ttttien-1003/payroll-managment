@@ -1,0 +1,6 @@
+#LoaiNhanVien,MaNV,HoTen,DiaChi,SoDienThoai,Email,ThongTinThem,HanHopDong,LuongCoBan,ThamNien
+Full-time Employee,FT001,Nguyen Van An,Quan 1 TP.HCM,0901234567,a.nguyen@email.com,Kinh nghiem 5 nam,0-0-0,2340000,24
+Full-time Employee,FT002,Le Thi B,Quan 3 TP.HCM,0902223334,b.le@email.com,Kinh nghiem 3 nam,0-0-0,2340000,20
+Intern,IT001,Tran Van C,Quan Binh Thanh TP.HCM,0903334445,c.tran@email.com,Dai hoc KHTN,2025-5-15,1170000,0
+Intern,IT002,Pham Thi D,Quan Go Vap TP.HCM,0904445556,d.pham@email.com,Dai hoc CNTT,2025-5-15,1170000,0
+Contractual Employee,CT002,Ngo Thi F,Quan Phu Nhuan TP.HCM,0906667778,f.ngo@email.com,Du an Mobile,2026-3-15,2106000,180
