@@ -16,7 +16,7 @@
 | :--- | :--- | :--- |
 | Nguyễn Việt Cường | - Quản lý chung, phân công công việc, theo dõi tiến độ. <br> - Xây dựng module tính lương (`SalaryCalculator`). <br> - Xây dựng module quản lý chấm công (`AttendanceManager`). <br> - Xây dựng module giao diện người dùng. <br> - Quay video demo đồ án. | Đều đặn |
 | Lê Hải Sơn | - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng module giao diện người dùng CLI (`App`) và định dạng hiển thị (`PayrollPrinter`, `NumberFormatter`). <br> - Xử lý đọc/ghi file CSV chấm công. <br> - Tích hợp các module. <br> - Vẽ class diagram và tạo tài liệu mô tả về các lớp, ý nghĩa các hàm. | Đều đặn |
-| Trần Thị Thủy Tiên | - Thiết kế kiến trúc tổng thể (Lớp `IEmployee`, `IWelfare`). <br> - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng các lớp phúc lợi cụ thể (`SocialInsuranceWelfare`, `BonusWelfare`, `TransportationWelfare`). <br> - Xây dựng module quản lý phúc lợi (`WelfareManager`). <br> - Xử lý đọc/ghi file danh sách nhân viên. <br> - ... | Đều đặn |
+| Trần Thị Thủy Tiên | - Thiết kế kiến trúc tổng thể (Lớp `IEmployee`, `IWelfare`). <br> - Xây dựng các lớp nhân viên cụ thể (`FulltimeEmployee`, `Intern`, `ContractualEmployee`). <br> - Xây dựng các lớp phúc lợi cụ thể (`SocialInsuranceWelfare`, `BonusWelfare`, `TransportationWelfare`). <br> - Xây dựng module quản lý phúc lợi (`WelfareManager`). <br> - Xử lý đọc/ghi file danh sách nhân viên. | Đều đặn |
 
 ## 3. Tỉ lệ đóng góp
 
