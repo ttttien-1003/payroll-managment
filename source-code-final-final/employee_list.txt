@@ -1,0 +1,36 @@
+#LoaiNhanVien,MaNV,HoTen,DiaChi,SoDienThoai,Email,ThongTinThem,HanHopDong,LuongCoBan,ThamNien
+Full-time Employee,FT001,Nguyen Van An,Quan 1 TP.HCM,0901234567,a.nguyen@email.com,Kinh nghiem 5 nam,0-0-0,2340000,24
+Full-time Employee,FT002,Le Thi B,Quan 3 TP.HCM,0902223334,b.le@email.com,Kinh nghiem 3 nam,0-0-0,2340000,20
+Intern,IT001,Tran Van C,Quan 2 TP.HCM,0903334445,c.tran@email.com,Dai hoc UEH,2025-8-15,1170000,0
+Intern,IT002,Pham Thi D,Nhon Trach Dong Nai,0904445556,d.pham@email.com,Dai hoc CNTT,2025-5-15,1170000,0
+Contractual Employee,CT001,Le Hai S,Di An Binh Duong,0937733974,lhson@gmail.com,Du an Web,2027-04-05,2106000,30 
+Contractual Employee,CT002,Ngo Thi F,Quan 7 TP.HCM,0906667778,f.ngo@email.com,Du an Mobile,2026-3-15,2106000,18
+Full-time Employee,FT003,Nguyen Viet C,Quan 7 TP.HCM,0777622378,nvc@gmail.com,Kinh nghiem 1 nam,0-0-0,2340000,2
+Intern,IT003,Tran Thi Thuy T,Nhon Trach Dong Nai,0902743140,thuytientran@gmail.com,Dai hoc KHTN,2025-8-15,1170000,2
+Full-time Employee,FT004,Phan Thanh G,Quan 2 TP.HCM,0909990001,g.phan@email.com,Kinh nghiem 7 nam,0-0-0,2340000,36
+Intern,IT004,Vo Thi H,Quan 7 TP.HCM,0910112233,h.vo@email.com,Dai hoc Bach Khoa,2025-10-30,1170000,0
+Contractual Employee,CT003,Nguyen K,Thuan An Binh Duong,0911223344,k.nguyen@email.com,Du an IoT,2028-01-01,2106000,60
+Full-time Employee,FT005,Hoang Van L,Quan 2 TP.HCM,0912345678,l.hoang@email.com,Kinh nghiem 4 nam,0-0-0,2340000,18
+Intern,IT005,Nguyen Anh M,Nhon Trach Dong Nai,0913456789,m.nguyen@email.com,Dai hoc Su Pham Ky Thuat,2025-06-30,1170000,0
+Full-time Employee,FT006,Truong Quang P,Quan 2 TP.HCM,0914567890,p.truong@email.com,Kinh nghiem 6 nam,0-0-0,2340000,30
+Intern,IT006,Mai Ngoc Q,Quan 4 TP.HCM,0915678901,q.mai@email.com,Dai hoc Van Lang,2025-09-10,1170000,0
+Contractual Employee,CT004,Dang Van R,Thuan An Binh Duong,0916789012,r.dang@email.com,Du an E-commerce,2027-11-20,2106000,24
+Full-time Employee,FT007,Tran Duc S,Quan 1 TP.HCM,0917890123,s.tran@email.com,Kinh nghiem 8 nam,0-0-0,2340000,40
+Intern,IT007,Nguyen Thi T,Quan 7 TP.HCM,0918901234,t.nguyen@email.com,Cao dang FPT,2025-07-01,1170000,0
+Intern,IT008,Bui Thi My Y,Quan 2 TP.HCM,0553214456,y.bui@email.com,Dai hoc Ngoai thuong,2025-07-01,1170000,3
+Intern,IT009,Huynh Tran Y N,Quan 1 TP.HCM,049513571,n.huynh@email.com,Dai hoc Kien truc,2025-08-10,1170000,6
+Contractual Employee,CT005,Tran Viet Bao H,Quan 2 TP.HCM,0512478463,h.tranviet@email.com,Du an Quang cao Comfort,2027-11-20,2106000,12
+Contractual Employee,CT006,Le Hoang D,Quan 7 TP.HCM,0874513648,d.lehoang@email.com,Du an Quang cao Comfort,2025-11-01,2106000,1
+Full-time Employee,FT008,Tran Trung H,Quan 3 TP.HCM,0124178591,trungh.tran@email.com,Kinh nghiem 4 nam,0-0-0,2340000,14
+Full-time Employee,FT009,Le Hoang Q,Thuan An Binh Duong,0767511668,quanhoang.le@email.com,Kinh nghiem 1 nam,0-0-0,2340000,2
+Contractual Employee,CT007,Nguyen Cong P,Quan 7 TP.HCM,0987412354,p.ngcong@email.com,Du an The thao,2025-11-01,2106000,9
+Contractual Employee,CT008,Nguyen Hai L,Quan 1 TP.HCM,0124756321,l.hainguyen@email.com,Du an The thao,2026-11-01,2106000,3
+Full-time Employee,FT010,Nguyen Thi Ngoc M,Nhon Trach Dong Nai,0451278462,m.nguyen@email.com,Kinh nghiem 1 nam,0-0-0,2340000,18
+Intern,IT010,Vo Le Que A,Quan 1 TP.HCM,012347512,a.vo@email.com,Dai hoc Nong Lam,2025-10-10,1170000,2
+Contractual Employee,CT009,Truong Quy Minh N,Nhon Trach Dong Nai,0147521163,n.truong@email.com,Du an Quang cao Comfort,2026-11-01,2106000,7
+Contractual Employee,CT010,Nguyen Cao Ky D,Di An Binh Duong,0125544786,d.ncky@email.com,Du an Quang cao Comfort,2025-06-01,2106000,5
+
+
+
+
+
